@@ -1,0 +1,10 @@
+*.swp
+*.bak
+*~
+t.*
+
+*.egg-info
+*.pyc
+.eggs/
+build/
+dist/
